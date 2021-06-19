@@ -54,7 +54,7 @@ width: 100%;
 
 .pg_hd h1 {
     font-size: 27px;
-    color: #214c8e;
+    color: #111;
     font-weight: 700;
     margin-bottom: 0px;
 }
@@ -133,8 +133,8 @@ width: 100%;
     outline: none;
     padding: 10px 15px;
     width: 100%;
-    border: 2px solid #285293;
-    background: #2c5aa0;
+    border: 2px solid #343a40;
+    background: #343a40;
     margin: 0;
     font-family: 'Tahoma';
     transition: 0.5s all;
@@ -145,8 +145,8 @@ width: 100%;
     border-radius: 6px;
 }
 	.login input[type="submit"]:hover, .login input[type="submit"]:focus{
-	  background:#285293 !important;
-	  border:2px solid #285293 !important;
+	  background:#111 !important;
+	  border:2px solid #111 !important;
 	  color: #fff !important;
 
 	}

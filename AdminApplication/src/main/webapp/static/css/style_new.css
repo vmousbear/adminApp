@@ -15,11 +15,12 @@ textarea.form-control {
   height: auto !important;
 }
 .header-blue {
-    background-color: #134275;
-    margin-left: 260px;  transition: all ease-in-out 0.3s;
-	 -webkit-transition: all ease-in-out 0.3s;
-	 -ms-transition: all ease-in-out 0.3s;
-	 -o-transition: all ease-in-out 0.3s;
+    background-color: #343a40;
+    margin-left: 260px;
+    transition: all ease-in-out 0.3s;
+    -webkit-transition: all ease-in-out 0.3s;
+    -ms-transition: all ease-in-out 0.3s;
+    -o-transition: all ease-in-out 0.3s;
 }
 /* new by amit, keshav */
  input[type="radio"]:focus, input[type="text"]:focus { box-shadow:none !important; outline:none;}
@@ -344,7 +345,7 @@ table.dataTable thead .sorting_asc {
     left: 0;
     top: 0;
     bottom: 0;
-    background-color: #06284c;
+    background-color: #111;
     width: 260px;
 	  transition: all ease-in-out 0.3s;
 	  -webkit-transition: all ease-in-out 0.3s;
@@ -707,7 +708,7 @@ overflow-y: auto;
   text-decoration: none;
   position: relative;
 padding: 6px 28px 6px 10px;
-border-bottom: 1px dotted #031931;
+border-bottom: 1px dotted #343a40;
 }
 
 .sidebar-wrapper .sidebar-menu ul li a i {
@@ -939,7 +940,7 @@ border-bottom: 1px dotted #031931;
 /*-----------------------------am-nav-------------------------------------------------*/
 
 .am-nav .sidebar-wrapper {
-    background: #06284c;
+    background: #111;
 }
 
  
@@ -988,7 +989,7 @@ border-bottom: 1px dotted #031931;
 .am-nav .sidebar-wrapper .sidebar-menu .sidebar-dropdown div,
 .am-nav .sidebar-wrapper .sidebar-search input.search-menu,
 .am-nav .sidebar-wrapper .sidebar-search .input-group-text {
-    background: #0f3c6c;
+    background: #6c757d;
 }
 
 .am-nav .sidebar-wrapper .sidebar-menu .header-menu span {
@@ -1034,7 +1035,7 @@ border-bottom: 1px dotted #031931;
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
     top: 0;
-    background: #06284c;
+    background: #111;
 	padding: 9px; transition:all ease-in-out 0 s;
 	color: #fff;
     z-index: 9999;
@@ -1118,13 +1119,13 @@ border-bottom: 1px dotted #031931;
 
 
 .ap_name_hd {
-  font-size: 1.7rem;
-  color:#ffdb1a;
-  margin: 0;
-  font-weight: 900;
-  white-space: nowrap;
-  Display: inline-block;
-} 
+    font-size: 1.7rem;
+    color: #fff;
+    margin: 0;
+    font-weight: 900;
+    white-space: nowrap;
+    Display: inline-block;
+}
 .ap_name_hd span1 {
   font-size: 18px;
   font-weight: 600;
@@ -1156,14 +1157,14 @@ border-bottom: 1px dotted #031931;
     #f9cf1e;
 }
 .role {
-    color: #fff;
-	background: #32bfd7;
+    color: #111;
+    background: #fff;
     padding: 4px 11px;
     border-radius: 17px;
 }
  
 .foot_ver {
-    background: #031931;
+    background: #343a40;
     padding: 7px 15px;
     position: fixed;
     display: block;
@@ -2262,7 +2263,7 @@ body { font-size: 13px !important; line-height: 1.1;}
 		transform: translateZ(0);
 		-webkit-transform: translateZ(0);
 		top: 0;
-		background: #06284c;
+		background: #111;
 		padding: 9px;
 		transition: all ease-in-out 0.3s;
 		-webkit-transition: all ease-in-out 0.3s;
@@ -2279,7 +2280,7 @@ body { font-size: 13px !important; line-height: 1.1;}
 		transform: none;
 		-webkit-transform: none;
 		top: 0;
-		background: #06284c;
+		background: #111;
 		padding: 0px;
 		transition: all ease-in-out 0.3s;
 		-webkit-transition: all ease-in-out 0.3s;
