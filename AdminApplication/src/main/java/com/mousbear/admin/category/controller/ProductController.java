@@ -1,4 +1,4 @@
-package com.mousbear.admin.product.controller;
+package com.mousbear.admin.category.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
